@@ -12,7 +12,7 @@ def current_datetime(request):
 
 def current_datetime2(request):
     now = datetime.datetime.now()
-    # fp = open('/home/congsl/tmp/homesite/homesite/templates/views/current_datetime.html')
+    # fp = open('/homesite/homesite/templates/views/current_datetime.html')
     # t = Template(fp.read())
     # fp.close()
 
